@@ -156,3 +156,4 @@ Supporting marketing and sales planning
 This Power BI project showcases strong skills in data analysis, visualization, business understanding, and storytelling. It is designed to reflect a real-world business analytics use case and serves as a portfolio-ready project for roles in Business Analytics, Consulting, and Data Analysis.# Blinkit-Analysis-Dashboard
 
 SCREENSHOT/DEMO
+https://github.com/goelkanak20/Blinkit-Analysis-Dashboard/blob/main/blinkit%20dashboard%20ss.png
